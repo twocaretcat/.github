@@ -1,4 +1,4 @@
-# Gitmojito v1.0.0 | https://github.com/twocaretcat/gitmojito | MIT
+# Based on Gitmojito v1.0.0 | https://github.com/twocaretcat/gitmojito | MIT
 
 # Type
 - name: 🐛 bug
@@ -37,6 +37,9 @@
 - name: 🌍 i18n
   description: 'TYPE: Translations and changes related to internationalization'
   color: d946ef
+- name: 🧹 chore
+  description: "TYPE: Other changes that don't modify src or test files"
+  color: 432004
 
 # Status
 - name: 🚦 new
@@ -48,9 +51,6 @@
 - name: 🚦 in progress
   description: 'STATUS: An issue that is currently being worked on'
   color: b45309
-- name: 🚦 blocked
-  description: 'STATUS: An issue that is blocked by another issue, user input, or other external factor'
-  color: b91c1c
 
 # Priority
 - name: 🚩 low
