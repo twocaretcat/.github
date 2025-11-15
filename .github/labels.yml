@@ -42,11 +42,14 @@
   color: 432004
 
 # Status
-- name: 🚦 new
+- name: 🚦 needs triage
   description: 'STATUS: A new issue that needs triage'
   color: 1d4ed8
-- name: 🚦 confirmed
-  description: 'STATUS: An issue that have been reproduced and is ready to be worked on'
+- name: 🚦 needs info
+  description: 'STATUS: An issue that has been reviewed but is waiting on more information'
+  color: b91c1c
+- name: 🚦 ready
+  description: 'STATUS: An issue that have been reproduced, reviewed, estimated, and is ready to be worked on'
   color: 4d7c0f
 - name: 🚦 in progress
   description: 'STATUS: An issue that is currently being worked on'
