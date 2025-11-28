@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: 💬 Question
-    url: ../../discussions
-    about: Open a discussion to ask a question about the project
+    url: https://github.com/twocaretcat/.github/blob/main/docs/SUPPORT.md#questions
+    about: '**Open a discussion** to ask a question about the project'
