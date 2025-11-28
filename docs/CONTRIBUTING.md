@@ -6,6 +6,15 @@ Thanks for your interest in contributing to the project! We don't have a specifi
 
 Check the README first to see if this project accepts contributions. Most of my projects do, but some projects are not maintained or are for personal use only. If you're not sure, **create a dicussion** to ask.
 
+## Reporting Issues
+
+Not a coder? See the [support resources](https://github.com/twocaretcat/.github/blob/main/docs/SUPPORT.md) for information on how to:
+
+- request features
+- report bugs
+- ask questions
+- report security vulnerabilities
+
 ## Finding Issues to Work On
 
 Issues with the `🚦 ready` label are ready to be worked on. If you comment on an issue, I can assign it to you.
