@@ -10,9 +10,6 @@
 - name: 📝 docs
   description: 'TYPE: Documentation only changes'
   color: 3b82f6
-- name: 💬 question
-  description: 'TYPE: A question about the project'
-  color: 7c3aed
 - name: 🔒 security
   description: 'TYPE: A code change that improves security'
   color: ef4444
