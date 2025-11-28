@@ -32,7 +32,7 @@ The more information you provide, the easier it will be to debug the issue.
 
 ## Questions
 
-If you have a question about the project, please **start a discussion** via the <kbd>Discussion</kbd> tab.
+If you have a question about the project, please **start a discussion** via the <kbd>Discussions</kbd> tab.
 
 **Link:** [github.com/twocaretcat/REPO/discussions](https://github.com/twocaretcat/tally-ts/discussions)
 
