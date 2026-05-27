@@ -7,7 +7,7 @@ Need help with the project? Here are some ways to get support.
 You can **create an issue** via the <kbd>Issues</kbd> tab to request a new feature or report a problem
 with the project. Make sure a similar issue doesn't already exist.
 
-**Link:** [github.com/twocaretcat/REPO/issues](https://github.com/twocaretcat/tally-ts/issues)
+**Link:** [github.com/twocaretcat/REPO/issues](https://github.com/twocaretcat/REPO/issues)
 
 ### Feature Requests
 
@@ -34,7 +34,7 @@ The more information you provide, the easier it will be to debug the issue.
 
 If you have a question about the project, please **start a discussion** via the <kbd>Discussions</kbd> tab.
 
-**Link:** [github.com/twocaretcat/REPO/discussions](https://github.com/twocaretcat/tally-ts/discussions)
+**Link:** [github.com/twocaretcat/REPO/discussions](https://github.com/twocaretcat/REPO/discussions)
 
 ## Security Vulnerabilities
 
