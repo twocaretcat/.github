@@ -49,5 +49,4 @@ jobs:
             twocaretcat/Tally-Extension
             twocaretcat/tally-ts
             twocaretcat/tinyi18n
-            twocaretcat/watch-history-exporter-for-amazon-prime-video
           token: ${{ secrets.GH_TOKEN }}
