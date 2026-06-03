@@ -21,31 +21,11 @@ jobs:
           repository: |
             twocaretcat/.github
             twocaretcat/168421
-            twocaretcat/astro-snapshot
-            twocaretcat/better-segments-for-strava
             twocaretcat/calculator
-            twocaretcat/Collage-Generator-for-Last.fm
-            twocaretcat/Compare-Form-Backends
-            twocaretcat/CringeCraft
-            twocaretcat/dark-mode-for-outlook
             twocaretcat/dotfiles
-            twocaretcat/Game-Maps
-            twocaretcat/gatsby-plugin-component-to-image
-            twocaretcat/gimp-average-layers
-            twocaretcat/gitmojito
             twocaretcat/Image-Signer
             twocaretcat/twocaretcat
             twocaretcat/twocaretcat.github.io
-            twocaretcat/komodo
-            twocaretcat/Mergist
             twocaretcat/NoBS
-            twocaretcat/Playlist-Archiver-for-Spotify
             twocaretcat/rtg-for-outlook
-            twocaretcat/Shared-File-Finder-for-Google-Drive
-            twocaretcat/Short-End
-            twocaretcat/Tally
-            twocaretcat/Tally
-            twocaretcat/Tally-Extension
-            twocaretcat/tally-ts
-            twocaretcat/tinyi18n
           token: ${{ secrets.GH_TOKEN }}
