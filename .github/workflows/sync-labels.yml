@@ -13,7 +13,7 @@ jobs:
       contents: read
       issues: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - uses: brpaz/action-label-syncer@master
         with:
           prune: false
