@@ -22,10 +22,14 @@ jobs:
             twocaretcat/.github
             twocaretcat/168421
             twocaretcat/calculator
+            twocaretcat/Custom-PiHole-Interface
             twocaretcat/dotfiles
             twocaretcat/Image-Signer
+            twocaretcat/mips-variable-replacer
+            twocaretcat/mock-pkg
+            twocaretcat/NoBS
+            twocaretcat/OnMyWay
+            twocaretcat/rtg-for-outlook
             twocaretcat/twocaretcat
             twocaretcat/twocaretcat.github.io
-            twocaretcat/NoBS
-            twocaretcat/rtg-for-outlook
           token: ${{ secrets.GH_TOKEN }}
